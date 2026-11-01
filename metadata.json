@@ -1,0 +1,6 @@
+{
+  "name": "CyberSafe – Online Scam Awareness",
+  "description": "A clean, modern, beginner-friendly educational website for cybersecurity and online scam awareness, covering phishing, OTP fraud, UPI scams, fake jobs, and online shopping fraud with practical tips and an interactive quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
