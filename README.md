@@ -2,6 +2,14 @@
 
 CyberSafe is an educational website created as a TY B.Sc. Computer Science project. It helps everyday internet users recognise common online scams and learn practical ways to stay safer online.
 
+**Live Website:** [Open CyberSafe](https://musical-malasada-ae3962.netlify.app)
+
+## Purpose of the Project
+
+CyberSafe was developed as part of a TY B.Sc. Computer Science field visit project. The purpose was to understand and spread awareness about common online threats, including phishing, online scams, and digital payment fraud.
+
+The project aims to help people recognise suspicious online activities, understand basic safety practices, and learn how to respond to potential cyber fraud through educational content and an interactive quiz.
+
 ## What it covers
 
 - **Scam awareness:** phishing, OTP fraud, UPI scams, fake job offers and online shopping fraud.
